@@ -4,10 +4,11 @@ I was looking For Molecules which are similar to chloroquine, act as Antimalaria
 
 TOOLS USED
 
-KNIME ,
-Biovia Discovery Studio ,
-PyRx
-I Performed and executed molecular similarity search of Chloroquine molecule in library using ● 2D fingerprint similarity( MORGAN ) , ● 3D alignment ( RD Kit package) , ● 3D similarity ( using CDK package)
+KNIME ,Biovia Discovery Studio ,PyRx
+I Performed and executed molecular similarity search of Chloroquine molecule in library using
+● 2D fingerprint similarity( MORGAN ) 
+● 3D alignment ( RD Kit package) 
+● 3D similarity ( using CDK package)
 
 DETAILS OF MOLECULES USED
 
